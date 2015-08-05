@@ -1,0 +1,57 @@
+An abbreviated list of the kind of cards this program can read...
+
+Damage
+- Flat damage
+- Range damage (Sunbird, Fire Shark)
+- per pip (Heck Hound)
+- damage over time (Rain of Fire, Fire Elf, Fire Dragon)
+- deal damage over time and heal over time (Link)
+- take damage to deal damage (Immolate)
+- two chained attacks
+- destroy charms
+- sacrifice minion for pips
+- sacrifice minion for health
+- sacrifice minion for pips (Take Power)
+
+Global
+- increase damage (Wyldfire)
+- increase and reduce healing (Doom and Gloom, Sanctuary)
+- increase power pip chance (Power Play)
+
+Ward
+    Shield
+    - one school (Fire Shield)
+    - multiple schools (Glacial Shield)
+    - absorption of damage and stuns
+    Trap
+    - one school (Fire Trap)
+    - one school multiple (Fuel)
+    - put trap on self to trap someone else
+
+Healing
+- basic heals
+- heal all of team
+- heal over time
+- take damage to give health
+
+Manipulation
+- multiple into another school (Mass Fire Prism)
+- single into another school (Fire Prism)
+- summon minion (Fire Elemental)
+- stun (Choke)
+- steal positive charm (Steal Charm)
+- reduce threat (Tranquilize, Mega Tranquilize)
+- increase threat
+- take damage to deal damage
+
+Steal
+- steal health, take half
+
+Charm
+    Blade
+    - one school (Fireblade)
+    - multiple schools
+    - accuracy buff
+    Debuff
+    - accuracy debuff (Smoke Screen)
+    - dispell next spell of school (Quench)
